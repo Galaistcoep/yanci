@@ -1,0 +1,1 @@
+ C:\\src\\YANCI\\yanci\\.dart_tool\\flutter_build\\c8742e29885a74fd5ac51984561ae30e\\native_assets.json: 
